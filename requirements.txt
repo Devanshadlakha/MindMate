@@ -7,3 +7,4 @@ googletrans==4.0.0-rc1
 pymongo
 requests
 python-dotenv
+python-3.12.0
